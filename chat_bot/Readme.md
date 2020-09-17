@@ -17,6 +17,7 @@ Chat Bot is a programming software to dialog with a bot
 
 ### Structure
 
+```bash
 .
 
 ├── assets
@@ -38,6 +39,8 @@ Chat Bot is a programming software to dialog with a bot
 ├── index.html
 
 └── Readme.md
+
+```
 
 
 ## Components
