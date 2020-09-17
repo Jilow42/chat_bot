@@ -12,15 +12,25 @@ Chat Bot is a programming software to dialog with a bot
 ### Structure
 
 .
+
 ├── assets
+
 │ └── img
+
 │ └── 42-plop.jpg
+
 ├── css
+
 │ ├── index.css
+
 │ ├── lib
+
 │ │ └── bootstrap.min.css
+
 │ └── reset.css
+
 ├── index.html
+
 └── Readme.md
 
 
