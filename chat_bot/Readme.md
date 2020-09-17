@@ -10,6 +10,10 @@ Chat Bot is a programming software to dialog with a bot
 * HTML5
 * CSS3
 
+### Start up
+
+* git clone
+* open in the browser
 
 ### Structure
 
@@ -63,7 +67,6 @@ The reset is set in index.css wich is the main part of chat-bot CSS.
 
 None, it's juste a template for now.
 
-### Start up
+### Assets
 
-* git clone
-* open in the browser
+You can add the profile image in the img file.
