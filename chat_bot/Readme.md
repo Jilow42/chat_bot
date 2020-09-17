@@ -6,8 +6,10 @@ Chat Bot is a programming software to dialog with a bot
 
 ### Coded with
 
+
 * HTML5
 * CSS3
+
 
 ### Structure
 
@@ -63,5 +65,5 @@ None, it's juste a template for now.
 
 ### Start up
 
-git clone
-open in the browser
+* git clone
+* open in the browser
