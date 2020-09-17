@@ -19,45 +19,32 @@ Chat Bot is a programming software to dialog with a bot
 
 ```bash
 .
-
 ├── assets
-
 │ └── img
-
 │ └── 42-plop.jpg
-
 ├── css
-
 │ ├── index.css
-
-│ ├── lib
-
-│ │ └── bootstrap.min.css
-
 │ └── reset.css
-
 ├── index.html
-
 └── Readme.md
 
 ```
+### Assets
 
+You can add the profile image in the img file.
 
 ## Components
 
-* Navigation
+* Navigation - Side bar the navigation for chat bot
 
-	* contacts
+     * contacts - All contact connected to the chat bot
+     * profil - User profil and informations (avatar picture and name)
+     * log in - log in and log out for the user
 
-	* profil
+* Main part - Main part with the chat
 
-	* login
-
-* Main part
-
-	* messages
-
-	* send message
+     * messages - every message with the sending date and time, name of the sender and his avatar picture
+     * send message - A simple form with an input text and an input submit
 
 ### Style
 Use of a reset.css to start from scatch.
@@ -69,7 +56,3 @@ The reset is set in index.css wich is the main part of chat-bot CSS.
 ## Fonctionnality
 
 None, it's juste a template for now.
-
-### Assets
-
-You can add the profile image in the img file.
