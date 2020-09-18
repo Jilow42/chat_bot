@@ -78,10 +78,10 @@ You can add the profile image in the img file.
 
 * send message - A simple form with an input text and an input submit
 ```html
-<div class="avatar">
-  <figure><img src="./assets/img/42-plop.jpg" alt="avatar"></figure>
-  <span class="avatar">Jilow</span>
-</div>
+<form action="#" method="POST" class="main form">
+  <input class="text" type="text" placeholder="Message">
+  <input class="btn" type="submit">
+</form>
 ```
 
 ### Style
